@@ -1,0 +1,1704 @@
+[
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "ETC + Triage",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "http://www.ngoaidmap.org/location/104? ",
+    "when": "same",
+    "tool": "INTERNET",
+    "a": "Ebola",
+    "who": "NGO Aid Map"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Salifu MM Sledge Country Director"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "(+231) 777444667 (L)"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "msff-monrovia-hom@paris.msf.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Surveillance/Contact Tracing",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "https://www.internationalsos.com/ebola/index.cfm?content_id=398&language_id=ENG ",
+    "a": "Ebola",
+    "where": "Ebola general",
+    "who": "SOS International infosheets"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola",
+    "who": "ICRC "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " Sierra Leone",
+    "a": "Ebola",
+    "who": "of Ireland"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion",
+    "a": "Ebola",
+    "where": "Lofa",
+    "who": "PSI "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " Child Protection Officer",
+    "tool": " Bomi PU",
+    "a": "Ebola",
+    "where": " Cell# +231 770009053",
+    "who": " Betty T.J Greaves"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Franck Aynes Logistics Cluster Coordinator"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "(+231) 777556588 (L)"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "alistair.short@concern.net"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " Reach Beyond and the Africa by Radio network.",
+    "a": "Ebola",
+    "who": " ELWA wants to expand radio content to interactive and address to Qs of people.,So far we are coordinating with Radio ELWA"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": " Contact #: +231 770009059"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion",
+    "a": "Ebola",
+    "where": "Bong, Margibi, Montserrado",
+    "who": "ZOA "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "l.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "The World Food Programme is using SMS to send public health alerts and communicate with people to gather data  on food supplies in affected areas in Guinea and Liberia and plan action needed accordingly.",
+    "when": "used as one way comms (only blasting messages out)",
+    "tool": "MOBILE (SMS)",
+    "a": "Ebola",
+    "who": "WHO"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - They are supporting the public awareness work of Caritas Gbarnga, through Church structures, in the North-Central areas of the country http://www.cafod.org.uk/News/Emergencies-news/Ebola-crisis-update",
+    "a": "Ebola",
+    "where": "Bong, Lofa, Nimba",
+    "who": "CAFOD "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Nico Heijenberg Emergency Coordinator"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "brussels.msf.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Manah Katta Head of nutrition Dep."
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - train heath volunteer to address fears of the desease in the communities and spread prevention messages. ",
+    "tool": "FACE2FACE",
+    "a": "Ebola",
+    "where": "Grand Gedeh, Lofa, Maryland, Montserrado"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - Ireland has provided direct funding to date of almost \u20ac2.5 million to organisations working on the Ebola response in Sierra Leone and Liberia, which are both partner countries for Ireland. This funding is supporting much needed NGO led awareness raising programmes in local communities in the most affected areas. ",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Surveillance/Contact Tracing",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Korto.williams@actionaid.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - Tackling Myths and Changing behaviours: Concern is warning locals not to eat bush meat from the likes of monkeys and particularly fruit bats who act as the host of the Ebola virus. Warnings too are also given about traditional practices of washing a corpse before being buried without using protective wear or even touching a corpse at the funeral as a body can remain highly infectious after death. They have printed and disseminated thousands of awareness posters and factsheets suitable for all levels of literacy as well as creating radio jingles to educate people on the risk factors of infection.",
+    "tool": "POSTERS AND FACTSHEETS",
+    "a": "Ebola",
+    "where": "Grand Bassa, Lofa, Montserrado"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Secretary- General"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Case Management",
+    "a": "Ebola",
+    "who": "Medecins du Monde "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Thama"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Case Management",
+    "a": "Ebola",
+    "who": "Making Change "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "collaboration": "Coordinating with ActionAid and BBC MA.",
+    "what": "Supporting a local NGO that runs a mental health community radio program now focusing on psycho-social support for Ebola affected communities;",
+    "a": "Ebola",
+    "who": "Internews"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Epi\u2010Surveillance and Lab",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "djesson@samaritan.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Shannoh Kandoh Program Manager"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Logistics",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Logistics",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - Through public awareness campaigns earlier in the year, nearly 450,000 individuals were reached with important education about Ebola through August. Thousands more were reached through radio broadcasts. Since mid-August, a new church-focused campaign has educated nearly 6,000 religious leaders with congregations totaling around 450,000 members. We continue to respond to invitations from churches, and also mosques, to provide Ebola education and awareness.",
+    "tool": "FACE3FACE, RADIO, CHURCHES",
+    "a": "Ebola",
+    "where": "Lofa, Montserrado"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "bburke@irex.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion",
+    "a": "Ebola",
+    "where": "Montserrado",
+    "who": "Medica Mondiale Liberia "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Support to Community Radio Stations for the production and airing of Ebola Prevention messages/jingles in Six local dialects. Door to door awareness raising in Bomi county and stakeholder meetings in 4 districts."
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Logistics",
+    "a": "Ebola",
+    "who": "CRS "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Logistics",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "gvanvulpen@oxfam.org.uk"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - The WHO social mobilization team in Liberia working in collaboration with Ministry of Health and Social Welfare and other partners UNICEF,MSF, IFRC has embarked on strengthening community engagement and empowerment to halt and reverse the Ebola virus disease outbreak. WHO social mobilization team jointly with UNICEF and USAID are training teachers from the 25 counties as part of the Ministry of Education in its community engagement and empowerment Ebola response. ",
+    "tool": "FACE2FACE, POSTERS ",
+    "a": "Ebola",
+    "where": "Bong, Lofa, Montserrado"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " Case Management",
+    "a": "Ebola",
+    "who": "ACF"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Case Management",
+    "when": "NOT SURE THEY ARE STILL DOING IT",
+    "a": "Ebola",
+    "who": "US Gvt "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion",
+    "a": "Ebola",
+    "where": "Montserrado, Nimba",
+    "who": "DRC "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion",
+    "a": "Ebola",
+    "where": "Bong, Lofa, Margibi, Montserrado"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "collaboration": " Vahun Community Radio in Vahun",
+    "what": " Radio Kintoma in Voinjama",
+    "when": " Radio Tamba Taikor in Foya",
+    "tool": " Radio Life in Zorzor & Salayea",
+    "a": "Ebola",
+    "where": " Radio Harleygnee in Kolahun",
+    "who": " Lofa County Health Team (CHT)"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Ernest.gaie@africare.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Aitor.SanchezLacomba@Rescue.org                                        Nora M. Love ETU Project Director"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Case Management",
+    "a": "Ebola",
+    "who": "Last Mile Health aka Tiyatien Health "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Safe burial",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " email ccole@reachbeyond.org (English for now",
+    "a": "Ebola",
+    "who": " For more info on RB programs: contact Curt Cole"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": " Lofa Program Unit"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "848 people have been infected",
+    "tool": " making this the deadliest Ebola outbreak in history.",
+    "a": "Ebola",
+    "who": "IREX\u2019s Civil Society and Media Leadership (CSML) program in Liberia has expanded its efforts to help reporters increase their understanding of Ebola and how to report on its impact on public life. The World Health Organization estimates that 1"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "mthama@righttoplay.com"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Case Management",
+    "a": "Ebola",
+    "who": "IFRC "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Kendell Kauffeldt Country Director"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "ahuggins@lr.mercycorps.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "headofmission@lr.missions-acf.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Case Management",
+    "a": "Ebola",
+    "who": "UNDP "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " INTL coord",
+    "tool": " First Response Radio mike@firstresponseradio.org +44 7754455645",
+    "a": "Ebola",
+    "who": " Radio ELWA needs help to replace studio equipment lost in last fire and a backup SW transmitter.,Mike Adams"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Case Management",
+    "a": "Ebola",
+    "who": "Plan "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "MSFOCB-Monrovia-"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": " Skype: madams_febc"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "collaboration": "UNICEF and ThoughtWorks, USAID",
+    "what": "a collaboration with UNICEF and ThoughtWorks to fuse the iHRIS software with the UNICEF-supported open source RapidPro mobile communications platform  into a new platform \u2013 the mobile Health worker Electronic Response and Outreach (mHERO) system.  mHERO will  create powerful use cases for health workers both from the MOHSW/national level health workers including: one way messaging, surveillance and reporting, polling and surveys, supplies and logistics, BCC, quiz's / gauging knowledge retention, scheduled messages and reminders, etc. as well as group messaging between health workers by health facility: including communication, mentoring, supportive supervision, and with the addition of CDR access and analysis - big data trend analysis (i.e. like Google Flu Trends http://www.google.org/flutrends/ ), etc.",
+    "when": "to be deployed soon - could be used for beneficiary communications but I don't think it is right now",
+    "tool": "MOBILE (note target is health workers not local pop)",
+    "a": "Ebola",
+    "where": "Liberia, Sierra Leone and Guinea ",
+    "contact": "Dykki Settle - Director, Health Workforce Informatics ",
+    "who": "IntraHealth International / UNICEF"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": " o Smile FM(community radio station) \u2013 covers Grand Gedeh and parts of River Gee counties. AAL has two LRPs in this region."
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Case Management",
+    "a": "Ebola",
+    "who": "ActionAid Liberia "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion -  Talking Drum Studio produces media products with positive messaging to influence mass attitudes and behaviors, believing that well-crafted entertaining programming can have a profound impact on how people think about themselves, their neighbors and their society. ",
+    "tool": "RADIO",
+    "a": "Ebola",
+    "who": "Talking Drum Studio (SFCG)"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Food distribution",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "coordinator"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "hschwartz@unicef.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Case Management",
+    "a": "Ebola",
+    "who": "Save the Children "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - Social mobilization provide Ebola prevention in the community. Sensitization of the community on how the virus spreads is critical to containing the virus. While MTI was heavily involved with community outreach in early summer, most education to the general public is taking place over national media (radio, billboards, etc).  MTI continues to meet with community leaders to ensure compliance with protocols.",
+    "tool": "FACE2FACE, RADIO AND BILLBOARDS",
+    "a": "Ebola",
+    "where": "Bomi, Bong, Grand Cape Mount, Montserrado, Sinoe"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "(+254) 722515294 (L)"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " MoH",
+    "tool": " MoGD",
+    "a": "Ebola",
+    "where": " and CBOs",
+    "who": " County Authorities"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Surveillance/Contact Tracing",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Surveillance/Contact Tracing",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Case Management",
+    "a": "Ebola",
+    "who": "UNICEF "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " Senjeh",
+    "tool": " Suehn Mecca and Dowein Districts)",
+    "a": "Ebola",
+    "who": "Bomi county (Klay"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": " Lofa Program Unit"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "(+231) 770267963 (L)"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "LiaisonOfficer@brussels.msf.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Case Management",
+    "a": "Ebola",
+    "who": "UNMIL "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "U-report is a free SMS social monitoring tool for community participation, designed to engage young people about issues they care about. U-report in Liberia is up and running. To join U-report, one has to send the word JOIN TO 770 267 957 and the system is free (website here:http://liberia.ureport.in ) ",
+    "when": "engagement tool, not sure how it is used in relathinship to Ebola",
+    "tool": "MOBILE, INTERNET, SOCIAL MEDIA",
+    "a": "Ebola",
+    "who": "UNICEF"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - Beneficiary Communication and Social Mobilization: The IFRC continued to support and strengthen the capacity of the National Society\u2019s volunteers in conducting Ebola awareness campaigns in 11 counties of Bomi, Bong, Gbarpolu, Grand Bassa, Grand Cape Mount, Grand Gedeh, Lofa, Margibi, Montserrado, Nimba and Rivercess. Over 230 communities of approximately 4,919 households were reached with Ebola prevention messages. The Red Cross together with other partner organizations will commence a large scale community based home based care programme. The Red Cross has a comparative advantage as it\u2019s already present on the ground with chapter structure and volunteers. This initiative has been in discussion for some time and is now materialized in a concrete plan in collaboration with MoH and WHO. Appropriate messages are being developed on handling of a dead body in the house as well as sick family members as admission is not always possible due to lack of Ebola Treatment Units (ETU) capacity.",
+    "tool": "FACE2FACE",
+    "a": "Ebola",
+    "where": "Bomi, Bong, Gbarpolu, Grand Bassa, Grand Cape Mount, Grand Gedeh, Lofa, Margibi, Montserrado, Nimba and Rivercess"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " POSTERS",
+    "when": " Quardu Gboni & Zorzor Districts).",
+    "tool": " RADIO,Lofa County (Voinjama",
+    "a": "Ebola",
+    "where": " Kolahun",
+    "who": "Radio talk show and Ebola Jingles produced in all dialects in Bomi County. Provision and distribution of IEC materials.,FACE2FACE"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "acb@ibisliberia.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Case Management",
+    "a": "Ebola",
+    "who": "IRC "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Joshua Mott Team leader CDC Liberia"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Tamrat Samuel Deputy Special Representative of"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - In Liberia\u2019s rural southeast, Last Mile Health and the Liberian Ministry of Health and Social Welfare have trained and equipped our network of frontline health workers and referral health centers to recognize the signs of Ebola; isolate, refer and treat affected patients; and educate communities to prevent further spread of the virus. ",
+    "tool": "FACE2FACE",
+    "a": "Ebola",
+    "where": "Grand Gedeh, Grand Kru, Maryland, River Ghee, Rivercess, Sinoe"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Surveillance/Contact Tracing",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Surveillance/Contact Tracing",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "ETC + Triage",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "ranjan.poudyal@savethechildren.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - HOTLINE - Those numbers have been set up by the Ministry of Health are for people to report if they suspect the symptoms of the disease: +231 886 520581, +231 886 229641, +231 886 397381, +231 776 547437",
+    "tool": "HOTLINE",
+    "a": "Ebola",
+    "where": "Numbers are for the entire country - other activities on social mobilization are going on in Bong and Montserrado"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Case Management",
+    "a": "Ebola",
+    "who": "UNFPA "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "chaibf@who.int                            Pieter Desloovere Media and communications"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Logistics",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - Behavioral change and training for health workers on information to deliver to communities (mainly to fight against rumors). ",
+    "tool": "FACE2FACE, POSTERS, RADIO",
+    "a": "Ebola",
+    "where": "Bomi, Bong, Lofa, Montserrado, Nimba"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Laurence Sailly Emergency Coordinator"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "lorenzo@womenscampaigninternationa"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "babimbilla@liberia.childfund.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " short",
+    "tool": " 5-minute drama programs on Ebola education and prevention. They can be downloaded from the following link:",
+    "a": "Ebola",
+    "who": " Reach Beyond (RB) has just produced 4"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "(+231) 776500287 (L)                 Brittany Titus Information Management Officer"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": " Mob: +231 (0) 777 496291 | +231 (0) 886496291"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Ebola_Crisis_Contacts_List.pdf",
+    "a": "Ebola",
+    "who": "UN Ebola crisis contact list"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "monrovia@icrc.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Sinead.Walsh@dfa.ie"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "(+) 777164317 (L)"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " Coordination",
+    "a": "Ebola",
+    "who": "ADC"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Education - CRS is responding to the Ebola crisis by collaborating with a number of local partners to carry out community based social mobilization, door to door health education and psychosocial support and by supporting faith-based health facilities. ",
+    "tool": "FACE2FACE",
+    "a": "Ebola",
+    "where": "Montserrado"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Education/Health Promotion",
+    "a": "Ebola",
+    "where": "Bong, Gbarpolu, Grand Cape Mount, Lofa, Margibi, Montserrado, Nimba"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Surveillance/Contact Tracing",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "skandoh@liberia.childfund.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "https://wca.humanitarianresponse.info/sites/wca.humanitarianresponse.info/files/3W%20List%20of%20Organization%2020140922_lib.pdf",
+    "a": "Ebola",
+    "who": "UNOCHA 3w"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion",
+    "a": "Ebola",
+    "where": "Montserrado"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "teta.lincoln@dfa.ie"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " and Ministry of Health and Social Welfare",
+    "a": "Ebola",
+    "who": "Radio messages to be broadcast end August 14.,Partnering with Public Health Initiative Liberia (PHIL)"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": " https://reachbeyond.org/ministry/healthcare/education"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola",
+    "who": "MoH "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " Case Management",
+    "a": "Ebola",
+    "who": "Concern Worldwide"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "(+231) 888135619 (L)"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Case Management",
+    "a": "Ebola",
+    "who": "MSF "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "msalifu@oxfam.org.uk"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " Case Management",
+    "a": "Ebola",
+    "who": "Samaritan's Purse"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social mobilization/awareness education, contact tracing, home healthcare and triage, ambulance services, counseling and material support for affected families and reintegration support for survivors and Ebola orphans. ",
+    "when": "Operating",
+    "tool": "Face to Face",
+    "a": "Ebola",
+    "where": "Monrovia",
+    "who": "More Than Me"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "genco.liberia@medecinsdumonde.net"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - Global Communities is implementing the Assisting Liberians with Education to Reduce Transmission (ALERT) program to provide intensive and urgent outreach in Lofa, Nimba, and Bong counties, which are at an immediate risk of further Ebola infections, as well as providing burial team support activities in all 15 counties of Liberia. Capitalizing on existing community trust, longstanding relationships, resources and networks, ALERT is engaging with as many communities as possible to quickly share information on proper hygiene practices and preventing transmission. Through ALERT, Global Communities is convening county workshops and community meetings with local leaders and stakeholders to increase knowledge, planning, and commitment to Ebola mitigation. Ebola prevention campaign messages are tailored for local residents and focus on teaching them proper hygiene practices to prevent transmission. Global Communities is also distributing transistor radios to isolated rural communities to promote the dissemination of Ebola prevention information. ",
+    "tool": "FACE2FACE, RADIO, MESSAGING (not sure which format)",
+    "a": "Ebola",
+    "where": "Bong, Lofa, Nimba",
+    "who": "Global Communities "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "See here: http://www.larryhollon.com/blog/2014/08/19/ebola-texting-hope-and-busting-myths/ ",
+    "tool": "MOBILE, FACE2FACE, CHURCHES",
+    "a": "Ebola",
+    "who": "Methodist Church"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Epi\u2010Surveillance and Lab",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "collaboration": "Agencies were asked to join a Social Society Steering Committee to support the design and implementation of the system. The proposal documents can be accessed here: http://bit.ly/1yMinfz :",
+    "what": "Coordination of Accountability Proposal they are currently designing. UNICEF are the Social Mobilisation Taskforce co-chairs with the government and are investing in a cloud based SMS system called RapidPro to allow SMS (with one shortcode) to be sent to and received from affected people for sensitisation and accountability",
+    "tool": "SMS",
+    "a": "Ebola",
+    "where": "UNICEF are currently developing this for Sierra Leone and Liberia, with further roll-out to Guinea.",
+    "contact": "craig.dean@plan-international.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Tubmanburg- Bomi County,August 2014- December 2014"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "collaboration": " and that communities in the far reaches of Liberia receive information about the virus and are prepared to educate others on prevention strategies.,FACE2FACE",
+    "what": " sensitive",
+    "when": " and does not feed unrest within a frightened population. Civil society leaders are coordinating to ensure that quarantined patients receive meals",
+    "tool": " and factual reporting on the Ebola crisis. CSML\u2019s broadcast consultant is working with a team of 10 Monrovia-based reporters to cover the Ebola story.                                                               IREXis also collaborating with the Ministry of Information and Ministry of Health and Social Welfare to develop targeted Ebola-awareness messages for distribution via national and community radio stations throughout the country. Journalists are being mentored to ensure that their Ebola coverage is factual",
+    "a": "Ebola",
+    "where": " professional",
+    "contact": " RADIO",
+    "who": "CSML is working through its main partners the Liberia Women Media Action Committee (LIWOMAC) and the Liberia Media Center (LMC) to foster responsible"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - in Molley Town, the Living Water team engaged the community in lessons about disease transmission, proper hand-washing techniques, and water-saving methods. The community also learned to properly dispose of human waste and keep water clean from collection to consumption, implementing community-driven solutions\u2014all necessary steps to fight Ebola and other diseases. - See more at: http://www.water.cc/posts/field-notes/ebola-update-well-rehab-molley-town#sthash.5pPcfoSg.dpuf",
+    "tool": "FACE2FACE",
+    "a": "Ebola",
+    "where": "Margibi",
+    "who": "Living Water International "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " 2014,County Health Team",
+    "when": " Humanitarian Initiative for Community Development (HICOD Inc)",
+    "tool": " Rural Community Empowerment Program (RUCEP)",
+    "a": "Ebola",
+    "where": " Community Safety Initiative (SCI)",
+    "who": "August \u2013November 30"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Logistics",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": " Contact #: +231 777074810/ +231 880182135"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Surveillance/Contact Tracing",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "jdonovan@conservation.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " Kolahun",
+    "tool": " Foya",
+    "a": "Ebola",
+    "where": " Zorzor & Salayea Districts",
+    "who": "Voinjama"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": " o Radio Kakata (community radio station) \u2013covers Margibi County"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "suena.flomo@crs.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion",
+    "a": "Ebola",
+    "where": "Lofa, Maryland, Nimba"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " Ebola Response Coordinator",
+    "a": "Ebola",
+    "who": " Hardii Zobombo"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "collaboration": " local health care workers",
+    "what": " its treatment and how it is contracted",
+    "when": " stretching from the most prominent national representatives to the most local of community members. This can be done by targeting relevant messages at key groups: government ministries",
+    "tool": " informing citizens that there is currently no vaccine or cure. Public misunderstandings complicate the crisis tremendously and are hampering global efforts to contain the virus. A behavior change campaign in the immediate future is necessary",
+    "a": "Ebola",
+    "where": " and the campaign needs to be integrated into the health care system",
+    "contact": " local civil-society organizations",
+    "who": "The second prong of Africare\u2019s approach will be comprehensive behavior change campaigns. A behavior change campaign around Ebola will address public misconceptions about the disease"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Epi\u2010Surveillance and Lab",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " have developed messages for Ebola awareness",
+    "tool": " currently being finalised. The messages will be produced in simple English and local languages and aired on seven (7) radio stations for ActionAid Liberia\u2019s Ebola Response.",
+    "a": "Ebola",
+    "who": "ActionAid Liberia in partnership with Public Health Initiative Liberia (PHIL)"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "They\u2019re also launching a SMS text message system for people to request and receive the latest news on the outbreak and report incidents on their mobile phone, free of charge.",
+    "when": "not deployed yet",
+    "tool": "MOBILE (SMS)",
+    "a": "Ebola",
+    "who": "Mercy Corps"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Harvard University\u2019s healthmap aggregates freely available information from eleven different sources, including the World Health Organisation and the International Society for Infectious Diseases.",
+    "when": "same than 144 and 145",
+    "tool": "MAPPING",
+    "a": "Ebola",
+    "who": "HEALTH MAP"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Surveillance/Contact Tracing",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Epi\u2010Surveillance and Lab",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " ActionAid Liberia",
+    "a": "Ebola",
+    "who": "Radio stations listed in column 2,Aisha Kamara Kolubah|Program Coordinator"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion",
+    "a": "Ebola",
+    "where": "Bong, Gbarpolu,Grand Gedeh, Grand Kru, Margibi, Maryland, Montserrado, Nimba, River Ghee"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola",
+    "who": "Women's Campaign International "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Harvey Howard Lead Emergency Management"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "(+231) 775302990 (L)"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": " o Liberia Broadcasting System \u2013Nation Wide"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " Recovery/Livelihood",
+    "a": "Ebola",
+    "who": "Oxfam"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - a student-run independent art-house cinema group that is calling for greater Ebola awareness. Its members are going door-to-door in Monrovia communities such as Sinkor, Clara Town and Bensonville, distributing materials and information they hope will empower people to curb the spread of the virus.",
+    "tool": "FACE2FACE",
+    "a": "Ebola",
+    "where": "Bomi, Margibi, Montserrado",
+    "who": "Kriterion "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "nora.love@rescue.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "collaboration": "Naymote, ",
+    "what": " Social Mobilisation/Education - IBIS is working closely with ministries, as well as city and district councils to deliver information and advice and to ensure that schools are equipped with adequate hygiene facilities when they reopen. In Liberia, IBIS has set up a fund of 150,000 Euros for Ebola-prevention projects to be carried out by civil society partners. IBIS's partner NAYMOTE in Liberia is drawing on its more than 5000 youth volunteers to engage communities in spreading correct information on Ebola prevention and response. Their office has been turned into an \u201cEbola Awareness Call Center\u201d where young people involve their extensive network to conduct Ebola education to Liberians in all parts of the country via telephone.  IBIS and the Emergency Education Cluster led by UNICEF will provide radio programming across the country, ranging from civic pride programmes to educational ones, ending the day with story-telling in native languages.",
+    "tool": "FACE2FACE, PHONE, RADIO",
+    "a": "Ebola",
+    "where": "Grand Gadeh, River Ghee",
+    "who": "IBIS"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Case Management",
+    "a": "Ebola",
+    "who": "MTI "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - WCI staff members are developing a grassroots advocacy campaign for the illiterate, rural communities affected by the virus, in order to provide the necessary information to stop the spread of the disease. ",
+    "a": "Ebola",
+    "where": "Bomi, Margibi, Montserrado"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "pratt@unfpa.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Epi\u2010Surveillance and Lab",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "(+231) 770761526 (L)                 Tawah Reeves"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "MC plans to activate local networks of trusted community leaders to provide honest, clear information on how to eliminate the transmission of Ebola, and play a positive role in their community during this challenging time. In partnership with global health organization PSI, MC response focuses on making accurate and up-to-date information accessible and credible, using materials developed by experts at the U.S. Centers for Disease Control & Prevention and the U.N.",
+    "when": "PLANNED ACTIVITY - NOT IMPLEMENTED YET",
+    "tool": "FACE2FACE",
+    "a": "Ebola",
+    "who": "Mercy Corps"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Tatjana Colin Child protection sub-cluster"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "reid@psiliberia.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Teta Lincoln"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "http://umap.openstreetmap.fr/en/map/ebola-e-tracking-in-sierra-leone-liberia-and-guine_12522#",
+    "when": "Targeting INGos and UN agencies but could be used by peiople with internet access in the country too",
+    "tool": "MAPPING",
+    "a": "Ebola",
+    "who": "OSM"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "- See more at: http://www.africare.org/africare-contain-ebola/#sthash.ooMXDN0X.dpuf,HOT LINES (2) AND FACE TO FACE (Supporting health promotion messaging by health facility staff and Community Health Workers),Bong"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Case Management",
+    "a": "Ebola",
+    "who": "Irish Aid "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "NORAMOU"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " Sierra Leone and Liberia",
+    "tool": " in order to inform about preventive actions in the border areas and build trust between the local population and the international system there to support.,FACE2FACE,Lofa",
+    "a": "Ebola",
+    "who": "2. Key Leader Engagement in the border area between Liberia"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": " Radio ELWA is on the air on FM in Monrovia & SW across all 3 key countries."
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Air transportation",
+    "a": "Ebola",
+    "who": "WFP"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Education/Health Promotion",
+    "a": "Ebola",
+    "where": "Bomi, Bong, Lofa, Montserrado"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "First Response Radio"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "fpv@cdc.gov"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "BBC"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Surveillance/Contact Tracing",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "caroline.bowah@medicaliberia.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion",
+    "tool": "POSTERS, FACE2FACE",
+    "a": "Ebola",
+    "where": "Bong",
+    "who": "CRG "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "collaboration": "WHO, UNICEF, IFRC, ECOWAS, WADR",
+    "what": "Co-hosted Forum on Ebola Communication and Prevention (8-9 September)",
+    "a": "Ebola",
+    "where": "Regional",
+    "who": "BBC Media Action"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Case Management",
+    "a": "Ebola",
+    "who": "WHO "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "UNICEF has partnered with the Ministry of Health to develop key messages about Ebola to disseminate via mobile phone, a key form of communication in Liberia.",
+    "when": "used as one way comms (only blasting messages out)",
+    "tool": "MOBILE (SMS)",
+    "a": "Ebola",
+    "contact": "MoH",
+    "who": "UNICEF"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " Acting PUM",
+    "tool": " Bomi PU",
+    "a": "Ebola",
+    "who": " Alphan Kabbah"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "(+231) 775126436 (L)"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": " o Liberia Women Democracy Radio- (covers Montserrado with specific emphasis on women issues). LWDR is the only women - focused radio station in Liberia and has been a partner to ActionAid for close to 4 years."
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "jmott@cdc.gov"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Surveillance/Contact Tracing",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Radio messages:"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - via their radio station: http://tunein.com/radio/UNMIL-Radio-915-s90632/",
+    "tool": "RADIO",
+    "a": "Ebola",
+    "where": "Montserrado"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Surveillance/Contact Tracing",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "kimhy@who.int                            Fadéla Chaib Communications Officer"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "cd-wa@drc.dk"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": " E: aisha.kamara@actionaid.org Skype: kaishab1                                           Korto R. Williams Country Representative"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Country Director"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion",
+    "a": "Ebola",
+    "where": "Grand Bassa, Nimba"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "emma.fitzpatrick@wfp.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Karine Deniel WASH Cluster Coordinator"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Epi\u2010Surveillance and Lab",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Surveillance/Contact Tracing",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Robert Ghosn Head of Zwedru Sub-Delegation"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola",
+    "who": "IREX "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " Social Mobilisation/Health Promotion",
+    "a": "Ebola",
+    "who": "ACDI/VOCA"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Kris Torgeson Liasion Officer"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "ICT, mapping"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "the Secretary-General (RoL)"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "rghosn@icrc.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "tsjeardbouta@gmail.com"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Health Promotion",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - Nationwide Ebola prevention training for traditional leaders in Kakata, Margibi County. The Carter Center supported the Ministry of Internal Affairs and National Traditional Council training of traditional leaders, women, youths, community radio and Freedom of Information Network Coordinators on Ebola prevention in the country. The training is being conducted by County Health and Social Mobilization teams supported by teams of the Ministry, the Council and The Carter Center backed by security officers to explain the national security measures taken by government as part of efforts to contain the virus. ",
+    "a": "Ebola",
+    "where": "Kakata, Margibi County",
+    "who": "Carter Center "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Safe burial",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": " Radio ELWA SW just got back on the air around 1 OCT. Coverage is across all 3 key countries."
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "DPKO set up a Twitter account with all sources of information about Ebola (Internews fed into that list): https://twitter.com/eboladesk ",
+    "when": "Already present - not really used to push information out so far",
+    "tool": "SOCIAL MEDIA",
+    "a": "Ebola",
+    "where": "global",
+    "who": "DPKO "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "kmd2@cdc.gov"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - In Liberia, ChildFund is working with the government and other nongovernmental organizations to spread awareness about the virus, ",
+    "a": "Ebola",
+    "where": "Lofa",
+    "who": "ChildFund "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "treeves@psiliberia.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "collaboration": " Gambia and Burkina Faso. According to the BBC",
+    "what": " Togo",
+    "when": " Guinea-Bissau",
+    "tool": " Ghana",
+    "a": "Ebola",
+    "where": " Mali",
+    "contact": " the system will allow the Red Cross and Red Crescent to send text messages to every switched-on handset in certain areas. In Sierra Leone",
+    "who": "These countries include: Benin"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " based in Liberia",
+    "a": "Ebola",
+    "who": "Carine Gachen Programme Advisor"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "(+254) 722721782 (L)"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "May 2014- December 2014"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "(+1) 8287733075 (L)"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - work in communities to increase public awareness of Ebola (the causes, signs, prevention and actions for suspected cases).",
+    "tool": "POSTERS, FACE2FACE",
+    "a": "Ebola",
+    "where": "Grand Gedeh, Montserrado, River Ghee, Rivercess"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "kdeniel@unicef.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " Case Management",
+    "a": "Ebola",
+    "who": "Africare"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Franck.aynes@wfp.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "HIV/aids"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Case Management",
+    "a": "Ebola",
+    "who": "Right to Play "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "(+231) 880535453 (L)"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " Bomi and Cape Mount counties). ActionAid has an LRP in the county next to Bomi.",
+    "a": "Ebola",
+    "who": " o Bomi Radio (community radio station) \u2013Covers 60% of the Western Region including Gbarpolu"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": " Other small community stations are playing the RB programs and are looking for more content,RADIO,Region wide & Liberia,RB programs are available and are airing now thru local stations."
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "http://www.mapaction.org/deployments/depldetail/231.html ",
+    "when": "same than 144 and 145",
+    "tool": "MAPPING",
+    "a": "Ebola",
+    "where": "Liberia",
+    "who": "MapAction Deployment"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "(+232) 23276472744 (L)"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "landgrenk@un.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " and the service will be in English and French. To subscribe",
+    "tool": " send 'JOIN' via WhatsApp to +44 7702 348 651 (you need to save this number in your phone's contacts first). To unsubscribe",
+    "a": "Ebola",
+    "where": " send 'STOP' via WhatsApp to the same number. See more here: http://www.bbc.com/news/world-africa-29573964?utm_campaign=DR_Newsletter_21Oct2014_Quarterly4&utm_medium=email&utm_source=Eloqua&elq=d8d65e9dcb004da8ad44d45c8017f7e2&elqCampaignId=2521 ,MOBILE APP (Audio",
+    "who": "spread of Ebola in the region. Content will be limited to three items a day"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion",
+    "a": "Ebola",
+    "where": "Bong, Grand Gedeh, Lofa, Margibi, Maryland, Montserrado, Nimba"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "katie@morethanme.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " who are co-located with Radio ELWA & ELWA Hospital.",
+    "a": "Ebola",
+    "who": " Hope to expand to communications work with Samaritans Purse"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Chelsea.payne@cartercenterliberia.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Epi\u2010Surveillance and Lab",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "lorna.stafford@dfa.ie"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Coordination",
+    "a": "Ebola",
+    "who": "CDC "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "will.rogers@ifrc.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": " o UN Mission in Liberia Radio \u2013 Nation Wide"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "(Liberia - Sierra Leone - Guinea)"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "WFP is currently implementing food security surveys remotely, by mobile phone, in Guinea, Liberia and Sierra Leone. The data helps WFP identify food security hotspots and monitor trends in these three Ebola-affected countries. The approach, called mobile Vulnerability Analysis and Mapping or 'mVAM' involves contacting people by SMS or interactive voice response. Remote mobile data collection allows WFP to have a real-time read on basic food security indicators in these countries, an advantage in the fast-moving Ebola epidemic. The tool also limits risk to enumerators in the context of a major public health emergency. (http://www.wfp.org/emergencies/ebola)",
+    "tool": "MOBILE (SMS, IVR)",
+    "a": "Ebola",
+    "who": "WFP"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "collaboration": " Margibi",
+    "what": " POSTERS",
+    "when": " Gbarpolu",
+    "tool": " FLYERS,Bomi",
+    "a": "Ebola",
+    "where": " Bong",
+    "contact": " Montserrado",
+    "who": " AA Liberia will also have messages distributed to local entertainment centres and local transport (taxis and buses) especially in communities that to not have access to radio stations.,RADIO"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Specialist"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "Country Manager"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "IFRC and ICRC"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "deslooverepi@who.int"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "dparker@acdivoca-lib.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Triage",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "kkauffeldt@samaritan.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Triage",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "msfch-liberia-ecoordo@geneva.msf.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": " Carole Chapelier"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Case Management",
+    "a": "Ebola",
+    "who": "Conservation International "
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "nutcpco@lr.missions-acf.org"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - JSI\u2019s largest project in Liberia, USAID-funded Rebuilding Basic Health Services (RBHS), is helping the Ministry of Health mobilize communities to protect themselves and safely care for the sick before their eventual transfer to Ebola treatment units. JSI staff will train 15,000 community mobilizers over the next three months. JSI is also assisting the Ministry of Health\u2019s contact-tracing team to develop a standard contact list for patients and medical staff to complete. Developing as complete a network as possible helps health care workers locate those who are or might be infected and prevent them from spreading the disease.",
+    "tool": "FACE2FACE",
+    "a": "Ebola",
+    "where": "Covering the entire country"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Safe burial",
+    "a": "Ebola"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": " Program Unit Manager",
+    "a": "Ebola",
+    "who": " Radio Bomi (FM 98.9),Tarnue Karbbar"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "a": "Ebola",
+    "who": "msfocb-monroviaecoord@"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Social Mobilisation/Health Promotion - Doctors Without Borders and the local Ebola team put in a new system. Every time an ambulance went to collect a patient or body, they sent a health promoter, like Seyoe and Jayah, to stand outside the house and explain to neighbors what was happening. MSF also began to allow families to visit patients at the center \u2014 from a safe distance. The staff at the center installed a cellphone booth where patients can make calls to their friends and relatives.",
+    "tool": "PHONE BOOTHS AND FACE2FACE",
+    "a": "Ebola",
+    "where": "activity reported here is going on in Foya - other activities goign on in Lofa and Montserrado"
+},
+{
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS2-Ebola 3W CwC - Communicating with Communities - Liberia_csv-context.json",
+    "what": "Case Management",
+    "a": "Ebola",
+    "who": "RBHS "
+}
+]
