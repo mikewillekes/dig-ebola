@@ -1,14 +1,22 @@
-@prefix eb: <http://ex.com/owl/ebola/> .
+@prefix eb: <http://isi.edu/dig/ontology/ebola/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema: <http://schema.org/> .
 
-eb:Ebola  rdf:type owl:Class .
-eb:who  rdf:type owl:DatatypeProperty .
-eb:what  rdf:type owl:DatatypeProperty .
-eb:tool  rdf:type owl:DatatypeProperty .
-eb:where  rdf:type owl:DatatypeProperty .
-eb:when  rdf:type owl:DatatypeProperty .
-eb:collaboration  rdf:type owl:DatatypeProperty .
-eb:contact  rdf:type owl:DatatypeProperty .
+#
+# Classes
+#
+eb:EbolaEvent rdf:type owl:Class ;
+	rdfs:subClassOf schema:Event .
+
+
+# 
+# Event data properties
+#
+eb:eventType rdf:type owl:DatatypeProperty ;
+	rdfs:domain schema:Event .
+eb:eventValue rdf:type owl:DatatypeProperty ;
+	rdfs:domain schema:Event .
+
